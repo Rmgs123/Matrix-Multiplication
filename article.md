@@ -142,10 +142,21 @@ $$
 
 Пусть
 
+<p align="center">
+
 $$
-A=\begin{pmatrix}a&b\\ c&d\end{pmatrix},\qquad
-B=\begin{pmatrix}e&f\\ g&h\end{pmatrix}.
+A = \begin{pmatrix}
+a & b\\
+c & d
+\end{pmatrix},
+\quad
+B = \begin{pmatrix}
+e & f\\
+g & h
+\end{pmatrix}.
 $$
+
+</p>
 
 Введём семь промежуточных величин:
 
